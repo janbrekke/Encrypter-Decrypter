@@ -1,5 +1,8 @@
-# Encrypter-Decrypter
+# Encrypter-Decrypter CLI (Terminal)
 Python Script to encrypt and decrypt text strings based on a secret user determined key
+This is a "Legacy" version.
+To make a long story short; this first evolved into the GUI version, and was then Re-Branded over to "GhostKey".
+It's in the Repository list if you are insterested.
 
 ### Prerequisites
 
